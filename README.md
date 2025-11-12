@@ -1,5 +1,12 @@
 ﻿# Landing Page — Nicho Casa
 
+[![Demo](https://img.shields.io/badge/demo-online-success?logo=netlify)](https://nichocasa.netlify.app/)
+
+| Tema | Stack | Demo |
+|---|---|---|
+| Casa | HTML, Tailwind CSS, JS | https://nichocasa.netlify.app/ |
+
+
 ![Preview](docs/preview.png)
 
 
